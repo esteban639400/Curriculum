@@ -1,0 +1,54 @@
+@charset "ISO-8859-1";
+body{
+	background-color: #E7EEEE;
+	font-family: sans-serif;
+}
+
+h1{
+	text-align:center;
+	
+}
+h2{
+	background-color: #A2BDBD; 
+	color: #445151;
+	text-decoration: underline ;
+}
+h3{
+	background-color: #ABC1C1;
+	color: #5C6F6F;
+	
+}
+b{
+	color: #06ADDA;
+	
+}
+article{
+	background-color: #D7DBDB ;
+	
+}
+section#seccion2{
+	font-weight: bold;
+	text-align: right;
+	
+}
+div{
+	
+	background-color: white;
+}
+.linea{
+	height: 1px;
+  	background-color: black;
+	
+}
+footer{
+	line-height:top;
+
+	background-color: white;
+	text-align: center;
+	
+	
+}
+.subtitulos{
+	color: #0795BB;
+	
+}
